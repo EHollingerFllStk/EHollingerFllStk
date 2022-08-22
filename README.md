@@ -1,11 +1,5 @@
 ### Hi there 👋
 
-<!--
-**EHollingerFllStk/EHollingerFllStk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
 I am a FullStack Software Engineering student at General Assembly embarking on an exciting journey to learning the nuances of software engineering. 
 
 Transitioning from the health sector, I worked as a Doctor of Physical Therapy using my clinical thinking skills.  I enjoyed providing outstanding patient care in multiple environments by using both my creative and logical skills to formulate individualized plans of care.
@@ -27,4 +21,3 @@ I am currently working on a project incorporating HTML< CSS, JavaScript, jQuery 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
