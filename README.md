@@ -13,7 +13,12 @@
 
 ### Skills 
 HMTL
+
 CSS
+
 JavaScript
+
 jQuery
+
 APIs
+
