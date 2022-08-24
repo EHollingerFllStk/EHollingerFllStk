@@ -6,9 +6,9 @@
 
 - ⛰️  I look forward to using both my strong skills in communication with my ability to problem solve to delve into my new learning adventure.
 
-- 🥁 When I’m not coding, you’ll find my playing music as I play a lot of different instruments (poorly 😆). 
+- 🥁 When I’m not coding, you’ll find my playing music as I play a lot of different instruments (some better than others! 😆). 
 
-- 🌱 I am currently working on a project incorporating HTML< CSS, JavaScript, jQuery linking it to an API to emulate the bird songs I hear in my small patch of the world, more specifically, my backyard! 
+- 🌱 I am currently working on a project incorporating HTML, CSS, JavaScript, jQuery linking it to an API to emulate the bird songs I hear in my small patch of the world, more specifically, my backyard! 
 
 
 ### Skills 
