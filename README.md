@@ -18,3 +18,4 @@ JavaScript
 jQuery
 APIs
 
+### Please check out my alter ego at for more of my projects!! ###
