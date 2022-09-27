@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 I am a FullStack Software Engineering student at General Assembly embarking on an exciting journey to learning the nuances of software engineering. 
+- 💻 I am a FullStack Software Engineering student at General Assembly embarking on an exciting journey to learn the nuances of software engineering. 
 
 - 🩺 Transitioning from the health sector, I worked as a Doctor of Physical Therapy using my clinical thinking skills.  I enjoyed providing outstanding patient care in multiple environments by using both my creative and logical skills to formulate individualized plans of care.
 
