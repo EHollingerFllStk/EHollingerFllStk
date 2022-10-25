@@ -18,12 +18,12 @@ Express
 React 
 Node.js  
 Python 
-Django   
-HMTL 
-CSS 
-JavaScript 
-jQuery 
-APIs 
+Django     
+HMTL   
+CSS  
+JavaScript  
+jQuery  
+APIs  
 AJAX 
 AWS S3 Buckets 
 Materialize 
