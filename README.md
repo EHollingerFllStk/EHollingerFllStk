@@ -23,12 +23,12 @@ HMTL
 CSS  
 JavaScript  
 jQuery  
-APIs  
-AJAX 
-AWS S3 Buckets 
-Materialize 
-Django Authentication/Authorization 
-Heroku  
+APIs   
+AJAX  
+AWS S3 Buckets  
+Materialize  
+Django Authentication/Authorization  
+Heroku   
 Vercel  
 Netlify  
 
