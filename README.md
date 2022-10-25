@@ -12,13 +12,13 @@
 
 
 ### Skills 
-MongoDB
-Mongoose 
-Express 
-React
-Node.js 
-Python
-Django 
+MongoDB  
+Mongoose  
+Express  
+React 
+Node.js  
+Python 
+Django  
 HMTL
 CSS
 JavaScript
