@@ -17,9 +17,9 @@ Mongoose
 Express  
 React 
 Node.js  
-Python 
-Django 
-PostgreSQL  
+Python   
+Django   
+PostgreSQL    
 HMTL   
 CSS  
 JavaScript  
