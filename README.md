@@ -18,7 +18,8 @@ Express
 React 
 Node.js  
 Python 
-Django     
+Django 
+PostgreSQL  
 HMTL   
 CSS  
 JavaScript  
