@@ -33,7 +33,7 @@ Heroku
 Vercel  
 Netlify  
 
-###Capstone Project 
+### Capstone Project   
 https://docs.google.com/presentation/d/1vPDa4AJ4E4iu4ddzF9_evbBwGtL3dlNO-aYNiukY1jM/edit?usp=sharing
 
 ### Portfolio  
