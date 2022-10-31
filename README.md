@@ -34,5 +34,9 @@ Vercel
 Netlify  
 
 
-###Portfolio
-https://portfolio-ten-lyart-13.vercel.app/
+###Portfolio  
+https://portfolio-ten-lyart-13.vercel.app/. 
+  
+###LinkedIn 
+https://www.linkedin.com/in/elizabeth-hollinger/
+
