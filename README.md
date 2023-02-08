@@ -8,7 +8,7 @@
 
 - 🥁 When I’m not coding, you’ll find me plucking away on my guitar or ukulele or banging on my drums. 
 
-- 🌱 I am currently working with django to create an app that provides older adults and thier loved ones to track home care health agencies and the services they provide. 
+- 🌱 I am currently working with express and React to create a movie app that allows users to search, save and delete movies 
 
 
 ### Skills 
