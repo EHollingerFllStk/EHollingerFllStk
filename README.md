@@ -1,14 +1,14 @@
-### Hi there 👋
+n### Hi there 👋
 
-- 💻 I am a FullStack Software Engineering student at General Assembly embarking on an exciting journey to learn the nuances of software engineering. 
+- 💻 I am a FullStack Software Engineer, and recent graduate General Assembly's Software Engineering Immersive, embarking on an exciting journey learning the nuances working with multiple coding languages, frameworks and databases. 
 
-- 🩺 Transitioning from the health sector, I worked as a Doctor of Physical Therapy using my clinical thinking skills.  I enjoyed providing outstanding patient care in multiple environments by using both my creative and logical skills to formulate individualized plans of care.
+- 🩺 Transitioning from the health sector, I worked as a Doctor of Physical Therapy using my clinical thinking skills.  I enjoyed providing outstanding patient care in multiple environments by using both my creative and logical skills to formulate individualized plans of care. Similarly, I use these same skills to analyze and debug code.
 
-- ⛰️  I look forward to using both my strong skills in communication with my ability to problem solve to delve into my new learning adventure.
+- ⛰️  I look forward to using both my strong skills in communication with my ability to problem solve to delve into my new learning adventure and bring success to my next employer.
 
 - 🥁 When I’m not coding, you’ll find me plucking away on my guitar or ukulele or banging on my drums. 
 
-- 🌱 I am currently working with express and React to create a movie app that allows users to search, save and delete movies 
+- 🌱 I am currently working with express and React to create a movie app that allows users to search, save and delete movies.  
 
 
 ### Skills 
