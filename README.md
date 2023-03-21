@@ -1,4 +1,4 @@
-n### Hi there 👋
+### Hi there 👋
 
 - 💻 I am a FullStack Software Engineer, and recent graduate General Assembly's Software Engineering Immersive, embarking on an exciting journey learning the nuances working with multiple coding languages, frameworks and databases. 
 
