@@ -8,7 +8,7 @@
 
 - 🥁 When I’m not coding, you’ll find me plucking away on my guitar or ukulele or banging on my drums. 
 
-- 🌱 I am currently working with express and React to create a movie app that allows users to search, save and delete movies.  
+- 🌱 I am currently working on an Image Recognition app and taking a deep dive into GitHub with a new course.
 
 
 ### Skills 
