@@ -37,7 +37,7 @@ Netlify
 https://docs.google.com/presentation/d/1vPDa4AJ4E4iu4ddzF9_evbBwGtL3dlNO-aYNiukY1jM/edit?usp=sharing
 
 ### Portfolio  
-https://portfolio-ten-lyart-13.vercel.app/. 
+https://beth-hollinger-portfolio.netlify.app/
   
 ### LinkedIn  
 https://www.linkedin.com/in/elizabeth-hollinger/
