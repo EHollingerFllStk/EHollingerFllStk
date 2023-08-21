@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there 👋 #
 
 - 💻 I am a FullStack Software Engineer, and recent graduate General Assembly's Software Engineering Immersive, embarking on an exciting journey learning the nuances working with multiple coding languages, frameworks and databases. 
 
@@ -11,7 +11,7 @@
 - 🌱 I am currently working on following an 8 Step procedure to create snake game app and taking a deeper dive into JavaScript with a new course.
 
 
-## Skills 
+## Skills ##
 - MongoDB  
 - Mongoose  
 - Express  
@@ -33,13 +33,13 @@
 - Vercel  
 - Netlify  
 
-### Capstone Project   
+### Capstone Project ###
 https://docs.google.com/presentation/d/1vPDa4AJ4E4iu4ddzF9_evbBwGtL3dlNO-aYNiukY1jM/edit?usp=sharing
 
-### Portfolio  
+### Portfolio ###
 https://beth-hollinger-portfolio.netlify.app/
   
-### LinkedIn  
+### LinkedIn ###
 https://www.linkedin.com/in/elizabeth-hollinger/
 
 
