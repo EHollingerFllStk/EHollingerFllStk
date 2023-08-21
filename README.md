@@ -8,24 +8,24 @@
 
 - 🥁 When I’m not coding, you’ll find me plucking away on my guitar or ukulele or banging on my drums. 
 
-- 🌱 I am currently working on an Image Recognition app and taking a deep dive into GitHub with a new course.
+- 🌱 I am currently working on following an 8 Step procedure to create snake game app and taking a deeper dive into JavaScript with a new course.
 
 
 ### Skills 
-MongoDB  
-Mongoose  
-Express  
-React 
-Node.js  
-Python   
-Django   
-PostgreSQL    
-HMTL   
-CSS  
-JavaScript  
-jQuery  
-APIs   
-AJAX  
+- MongoDB  
+- Mongoose  
+- Express  
+- React 
+- Node.js  
+- Python   
+- Django   
+- PostgreSQL    
+- HMTL   
+- CSS  
+- JavaScript  
+- jQuery  
+- APIs   
+- AJAX  
 AWS S3 Buckets  
 Materialize  
 Django Authentication/Authorization  
