@@ -26,12 +26,12 @@
 - jQuery  
 - APIs   
 - AJAX  
-AWS S3 Buckets  
-Materialize  
-Django Authentication/Authorization  
-Heroku   
-Vercel  
-Netlify  
+- AWS S3 Buckets  
+- Materialize  
+- Django Authentication/Authorization  
+- Heroku   
+- Vercel  
+- Netlify  
 
 ### Capstone Project   
 https://docs.google.com/presentation/d/1vPDa4AJ4E4iu4ddzF9_evbBwGtL3dlNO-aYNiukY1jM/edit?usp=sharing
