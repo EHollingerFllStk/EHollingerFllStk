@@ -8,7 +8,7 @@
 
 - 🥁 When I’m not coding, you’ll find me plucking away on my guitar or ukulele or banging on my drums. 
 
-- 🌱 I am currently working on Hacktoberfest with ZTM and Frontend Mentor Practice.
+- 🌱 I am currently working on an Udemy course called The Complete Full-Stack Web Development Bootcamp with Angela Yu to review all that I have learned along the way!
 
 
 ## Skills ##
